@@ -1,3 +1,5 @@
+![image](https://i.imgur.com/Zx7A6Pj.png)
+
 # esx-cyn-crafting
 
 This resource for ESX adds a way to craft items using a menu made with NativeUI where you have alot of options to add for every single crafting method with a simple configuration.
