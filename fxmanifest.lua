@@ -5,7 +5,7 @@ author 'Cyn'
 description 'ESX Crafting Script using NativeUI'
 
 client_scripts {
-  '@NativeUI/NativeUI.lua',
+  'data/NativeUI.lua',
   'config.lua',
   'data/client.lua'
 }
