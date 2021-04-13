@@ -4,6 +4,12 @@
 
 This resource for ESX adds a way to craft items using a menu made with NativeUI where you have alot of options to add for every single crafting method with a simple configuration.
 
+### Issues / Ideas for my next project
+```
+Got issues with a script, ideas to add to a current script or for a new project? Join my Discord Server and bring me the feedback.
+```
+- Discord: https://discord.gg/RVYC6th8xY
+
 ### Requirements
 * ESX (es_extended)
 
